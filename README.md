@@ -22,5 +22,5 @@
 
 > **📫 Get in Touch**
 
-` <a` href="https://www.linkedin.com/in/lavanya-pasumarthi/"> LinkedIn! `</a>`
-` <a` href="lavanya.pasumarthi3@gmail.com"> Email! `</a>`
+`<a` href="https://www.linkedin.com/in/lavanya-pasumarthi/"> LinkedIn! `</a>`
+`<a` href="lavanya.pasumarthi3@gmail.com"> Email! `</a>`
