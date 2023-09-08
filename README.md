@@ -23,5 +23,6 @@
 > **📫 Get in Touch**
 
 `<a` href="https://www.linkedin.com/in/lavanya-pasumarthi/"> LinkedIn! `</a>`
-
+`<a` href="https://lavanyapasumarthi3.github.io/lavspolio.github.io/"> Visit My Portfolio! `</a>`
+`<a` href="mailto: lavanyapdrl9@gmail.com"> Email Me! `</a>`
 
